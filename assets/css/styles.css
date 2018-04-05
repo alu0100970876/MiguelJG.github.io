@@ -291,5 +291,9 @@ p {
     top: 1px;
   }
 }
+#classprofileimage{
+    width: 100%;
+    height: auto;
+}
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
