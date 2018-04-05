@@ -1,4 +1,6 @@
-This website is a brief of my C.V. It was made using a template. Here you can finde the info of the creator of the template
+# :octocat: This website is a brief of my C.V. It was made using a template. Here you can finde the info of the creator of the template
+## You can visit it here: https://migueljg.github.io/
+
 
 Author of the template: 
 =======================================================================
